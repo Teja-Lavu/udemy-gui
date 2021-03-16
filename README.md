@@ -1,4 +1,4 @@
-### To use the application:
+***To use the application:
 
 ```
 1. Clone the project
